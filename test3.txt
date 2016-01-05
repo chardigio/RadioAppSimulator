@@ -1,0 +1,50 @@
+INIT 00:00:00 100
+ADD First Song1, Some Artist1, 1:00
+ADD This Song2, Another Artist2, 2:59
+ADD My Song3, Yet Another Artist3, 3:59
+PLAY 2
+LIKE
+PLAY 3
+DISLIKE First Song1
+DISLIKE My Song3
+LIKE This Song2
+ADD Fourth Song, This Artist4, 4:44
+ADD Fifth Long Song, This Super Artist5, 15:55
+PLAY 5
+LIKE
+DISLIKE Fourth Song
+DISLIKE Fifth Long Song
+LIKE
+LIKE
+PLAY 1
+PLAY 2
+DISLIKE
+PLAY 3
+ADD Now SixSongs, Artist No 6, 6:59
+LIKE Now SixSongs
+ADD Now Thats What I Call 7, Various, 7:59
+ADD Super Eight, JJ Abrams, 8:59
+LIKE First Song1
+LIKE This Song2
+DISLIKE Super Eight
+DISLIKE
+LIKE
+DISLIKE
+LIKE
+PLAY 1
+PLAY 2
+LIKE
+PLAY 3
+DISLIKE
+DISLIKE
+ADD Last Song Nine, No More, 9:09
+DISLIKE
+LIKE Last Song Nine
+LIKE First Song1
+LIKE
+PLAY 9
+PLAY 8
+PLAY 7
+LIKE
+DISLIKE Now Thats What I Call 7
+PLAY 6

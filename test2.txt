@@ -1,0 +1,17 @@
+INIT 01:00:59 100
+ADD Song1, Artist1, 1:11
+ADD Song 2, Artist 2, 2:30
+PLAY 2
+LIKE Song 2
+DISLIKE Song1
+ADD Song Number 3, Artist 3, 3:59
+PLAY 3
+LIKE
+LIKE Song1
+ADD Song Num 4, Art 4, 4:59
+PLAY 1
+LIKE
+PLAY 2
+DISLIKE
+DISLIKE Song Num 4
+QUIT

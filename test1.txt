@@ -1,0 +1,10 @@
+INIT 23:59:59 100
+ADD Song1, Artist1, 1:59
+ADD Song 2, Artist 2, 2:00
+PLAY 2
+ADD Song Number 3, Artist 3, 3:03
+PLAY 3
+ADD Song Num 4, Art 4, 4:49
+PLAY 1
+PLAY 2
+QUIT
